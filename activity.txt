@@ -1,3 +1,3 @@
-Commit timestamp: 2023-02-12T10:20:36
-Message: style: format code according to style guidelines
-Counter: 5
+Commit timestamp: 2023-02-12T11:05:00
+Message: docs: update installation instructions in README
+Counter: 6
