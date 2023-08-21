@@ -1,3 +1,3 @@
-Commit timestamp: 2023-08-18T15:25:04
-Message: perf: improve response time of background worker
-Counter: 300
+Commit timestamp: 2023-08-21T10:50:50
+Message: docs: update installation instructions in README
+Counter: 301
