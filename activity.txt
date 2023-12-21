@@ -1,3 +1,3 @@
-Commit timestamp: 2023-12-21T14:59:32
-Message: fix: fix date formatting edge case in calendar
-Counter: 494
+Commit timestamp: 2023-12-21T21:51:02
+Message: feat: add support for custom filters and options
+Counter: 495
