@@ -1,3 +1,3 @@
-Commit timestamp: 2023-12-25T14:42:03
-Message: refactor: simplify conditional branching logic
-Counter: 501
+Commit timestamp: 2023-12-25T17:54:27
+Message: docs: update installation instructions in README
+Counter: 502
