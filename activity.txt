@@ -1,3 +1,3 @@
-Commit timestamp: 2024-07-16T12:15:39
-Message: perf: cache frequently accessed properties
-Counter: 806
+Commit timestamp: 2024-07-17T10:09:11
+Message: feat: add support for custom filters and options
+Counter: 807
