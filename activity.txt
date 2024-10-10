@@ -1,3 +1,3 @@
-Commit timestamp: 2024-10-09T14:25:02
-Message: feat: implement user settings configuration
-Counter: 956
+Commit timestamp: 2024-10-10T11:38:29
+Message: docs: update installation instructions in README
+Counter: 957
