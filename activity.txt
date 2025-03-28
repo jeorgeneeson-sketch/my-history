@@ -1,3 +1,3 @@
-Commit timestamp: 2025-03-28T11:06:14
-Message: chore: update dependencies and build scripts
-Counter: 1222
+Commit timestamp: 2025-03-28T12:25:11
+Message: feat: add support for custom filters and options
+Counter: 1223
