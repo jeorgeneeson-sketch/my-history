@@ -1,3 +1,3 @@
-Commit timestamp: 2025-11-15T15:33:53
-Message: docs: update installation instructions in README
-Counter: 1584
+Commit timestamp: 2025-11-15T15:55:17
+Message: feat: add support for custom filters and options
+Counter: 1585
