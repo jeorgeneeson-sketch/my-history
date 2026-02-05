@@ -1,3 +1,3 @@
-Commit timestamp: 2026-02-01T19:45:58
-Message: test: expand test coverage for edge scenarios
-Counter: 1706
+Commit timestamp: 2026-02-05T09:32:22
+Message: docs: update installation instructions in README
+Counter: 1707
