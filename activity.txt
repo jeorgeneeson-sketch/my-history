@@ -1,3 +1,3 @@
-Commit timestamp: 2026-02-17T14:53:26
-Message: chore: update dependencies and build scripts
-Counter: 1727
+Commit timestamp: 2026-02-17T15:22:57
+Message: docs: update installation instructions in README
+Counter: 1728
