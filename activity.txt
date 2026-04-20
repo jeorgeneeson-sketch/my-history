@@ -1,3 +1,3 @@
-Commit timestamp: 2026-04-20T11:13:49
-Message: feat: add initial project structure
-Counter: 1815
+Commit timestamp: 2026-04-20T12:37:44
+Message: docs: update installation instructions in README
+Counter: 1816
