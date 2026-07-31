@@ -1,3 +1,3 @@
-Commit timestamp: 2026-07-28T17:40:56
-Message: feat: add support for custom filters and options
-Counter: 1943
+Commit timestamp: 2026-07-31T09:09:53
+Message: docs: add docstrings and comments to core modules
+Counter: 1944
